@@ -1,0 +1,6 @@
+[submodule "wechat.client"]
+	path = wechat.client
+	url = git@gitee.com:alang_robot/wechat.client.git
+[submodule "wechat.server"]
+	path = wechat.server
+	url = git@gitee.com:alang_robot/wechat.server.git
